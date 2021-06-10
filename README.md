@@ -2,6 +2,8 @@
 
 # R Graphics
 
+This is the repository for D-Lab's introductory Python-Fundamentals workshop series. Laptop, Internet connection, and Zoom account required.
+
 This workshop will provide an introduction to graphics in R with ggplot2. Participants will learn how to construct, customize, and export a variety of plot types in order to visualize relationships in data. We will also explore the basic grammar of graphics, including the aesthetics and geometry layers, adding statistics, transforming scales, and coloring or panelling by groups. You will learn how to make histograms, boxplots, scatterplots, lineplots, and heatmaps. You will also learn how to facet plots and create compound figures. 
 
 **Prior experience with R is assumed such as R-Fundamentals Parts 1 through 4 or equivalent knowledge.**
