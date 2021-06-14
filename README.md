@@ -49,7 +49,7 @@ We will take a few minutes at the start of the workshop to make sure everyone ha
 
 NOTE: D-Lab workshops normally start 10 minutes after the scheduled start time (“Berkeley Time”). We recommend you log on at the start time to join the waiting room where hosts will message you further information. 
 
-# Is [workshop name] not running on your laptop?
+# Is R not running on your laptop?
 
 Need to check in with team 6
 
