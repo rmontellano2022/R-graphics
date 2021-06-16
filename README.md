@@ -2,7 +2,7 @@
 
 # R Graphics
 
-This is the repository for D-Lab's introductory Python-Fundamentals workshop series. Laptop, Internet connection, and Zoom account required.
+This is the repository for D-Lab's R-Graphics workshop. Laptop, Internet connection, and Zoom account required.
 
 This workshop will provide an introduction to graphics in R with ggplot2. Participants will learn how to construct, customize, and export a variety of plot types in order to visualize relationships in data. We will also explore the basic grammar of graphics, including the aesthetics and geometry layers, adding statistics, transforming scales, and coloring or panelling by groups. You will learn how to make histograms, boxplots, scatterplots, lineplots, and heatmaps. You will also learn how to facet plots and create compound figures. 
 
@@ -51,7 +51,12 @@ NOTE: D-Lab workshops normally start 10 minutes after the scheduled start time (
 
 # Is R not running on your laptop?
 
-Need to check in with team 6
+Attend the workshop anyway, we can provide you with a cloud-based solution (DataHub or Binder) until you figure out the problems with your local installation. 
+
+If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking this [link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-graphics&urlpath=rstudio%2F&branch=master). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub (https://datahub.berkeley.edu), sign in, and you click on the r-visualization folder.
+If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this [Binder button](https://mybinder.org/v2/gh/dlab-berkeley/python-fundamentals/master). By using this button, you cannot save your work unfortunately. 
+
+NOTE: D-Lab workshops normally start 10 minutes after the scheduled start time (“Berkeley Time”). We recommend you log on at the start time to join the waiting room where hosts will message you further information. 
 
 # Run the code! 
 
@@ -77,7 +82,7 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 
 (include definition of IOKN2K!)
 
-# Other D-Lab Python Workshops
+# Other D-Lab R Workshops
 
 Check out the [D-Lab Computational Text Analysis Working Group by clicking here](http://dlabctawg.github.io/)
 
